@@ -1,4 +1,4 @@
-This program shows the help with the optio -h:
+This program shows the help with the option -h:
 
 ```
 python3 MTUOC-tabtxt2TMX.py -h
