@@ -20,3 +20,7 @@ To convert the file corpus-eng-spa.txt in tab txt format into the TBX file corpu
 
 
 `python3 MTUOC-tabtxt2TMX.py -i corpus-eng-spa.txt -o corpus-eng-spa.tmx -s en-US -t es-ES`
+
+You alternativelly can use the GUI version of the program, MTUOC-tabtxt2TMX, offering a simple GUI interface:
+
+![](![](https://github.com/mtuoc/tutorials/blob/main/images/MTUOC-tabtxt2TMX-GUI.JPG))
