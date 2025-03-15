@@ -23,4 +23,4 @@ To convert the file corpus-eng-spa.txt in tab txt format into the TBX file corpu
 
 You alternativelly can use the GUI version of the program, MTUOC-tabtxt2TMX, offering a simple GUI interface:
 
-![](![](https://github.com/mtuoc/tutorials/blob/main/images/MTUOC-tabtxt2TMX-GUI.JPG))
+![](https://github.com/mtuoc/tutorials/blob/main/images/MTUOC-tabtxt2TMX-GUI.JPG)
